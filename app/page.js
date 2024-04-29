@@ -10,7 +10,7 @@ export default function Home() {
       </h1>
       <h2>
         {" "}
-        <span className={styles.help}>help para iniciar</span>
+        <span className={styles.help}>Ejecuta `help` para iniciar</span>
       </h2>
 
       <p>
